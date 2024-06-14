@@ -4,6 +4,8 @@
 # testPackage
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/fai-k/testPackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/fai-k/testPackage/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of testPackage is to try making a package
